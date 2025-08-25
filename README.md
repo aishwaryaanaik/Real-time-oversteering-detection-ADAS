@@ -49,6 +49,10 @@ We used a **Decision Tree classifier** for oversteering detection.
 
 
 ## Project flow
+<p align="center">
+<img width="700 height="500" alt="image" src="https://github.com/user-attachments/assets/bf6e59a1-1ab3-4445-bf28-870b65f63ca0" />
+</p>
+
  1. **Data Collection**
     - The MPU 6050 integrated with ESP 32 is placed at the dashboard of the vehicle and from here lateral acceleration,forward acceleration and yaw rate is obtained.
 Arduino Nano 33 BLE sense is used for obtaining steering angle.
