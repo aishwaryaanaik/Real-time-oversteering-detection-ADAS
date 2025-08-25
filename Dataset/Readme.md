@@ -1,0 +1,1 @@
+This dataset is collected from real time vehicle by placing the sensors accordingly as discussed before, the dataset is labelled as 0 and 1 based on thresholds set.The same dataset is used for  training the decision tree model
