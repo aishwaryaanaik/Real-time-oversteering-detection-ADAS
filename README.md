@@ -94,7 +94,10 @@ We set safe ranges for sensor values. If readings go outside these limits, the s
   <p align="center">
   <img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/f57eaf3a-db52-4973-8202-fd843b5282a7" />
 </p>
-  
+
+  ## Co-Authors
+  - Devika Vijapur, Nidhi Desai, Smita Ganur.
+
 
 
 
